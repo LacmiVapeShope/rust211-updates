@@ -1,0 +1,1 @@
+BepInEx/plugins/RecoilSwitch.dll|16384|9234f7d41dcf091e4e747a3d4e5276bc3657ae302eeaf495a7ec8e3ba0113c3d
