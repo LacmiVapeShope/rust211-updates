@@ -1,2 +1,0 @@
-BepInEx/plugins/GrassToggle.dll|27648|eecf371117f4b609b8bd427073bc44b0ae467ad9ee7ba945a7ed8c605a44b0a4
-RustClient_Data/Managed/Assembly-CSharp.dll|2205696|651d6509b65105cfc6ff49e0584386a8f2a582f661fd89a057362365032e2d21
